@@ -1,0 +1,2 @@
+# cmpe266_Yelp_Data_Sentiment_Analysis
+Yelp is a web service that offers a rich set of crowdsourced reviews about local businesses and online reservations Customer Reviews and Rating plays a vital role in forecasting business success and profitability. Reviews have a significant impact on business revenue, consumer purchase decisions and product sales. Reviews can be a free-form text and a numeric star rating. Sentiment Analysis will be used on User reviews to help  business owners to easily discover the features of the business they need to improve.
