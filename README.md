@@ -27,3 +27,5 @@ For a business, the Sentiment Analysis is very important. If the business owners
 How Topic Modelling can help understand your business and city ?
 
 Topic modelling helps to pick specific topics from the huge volume of text. Topic Modelling on the Three popular restaurants and also on Phoenix City helps us to understand that complaints regarding restaurants and business is around Service
+
+References : https://www.kaggle.com/ambarish/a-very-extensive-data-analysis-of-yelp/data
