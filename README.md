@@ -27,22 +27,6 @@ How Sentiment Analysis can help your business ?
 
 For a business, the Sentiment Analysis is very important. If the business owners can just see the Top Ten negative reviews, they can easily find out which aspect of the business they need to improve.
 
-For example, the Pai Northern Thai Kitchen, the complaints were about Service. Now when we go deeper into the Service complaints, we can find out various aspects of the service complaints such as
-
-    why our waitress seemed to be in such a hurry to get us out of the place.
-
-    This restaurant was crowded and noisy. The tables were packed so closely that I was falling over other diners while maneuvering to my seat
-
-    but their service was God-awful. They rarely attended our table, It took 55 minutes for our food to arrive. They took our drink orders and did not deliver them
-
-Another interesting complaint for the Chipotle Business in Yonge Street Toronto was that they did not accept Interac , a standard payment method in Canada
-
-Examples involving it are as follows
-
-    Not complying with customers' choice to pay with Interac, a standard payment method in Canada, is also a nuisance
-
-    Only reason it got a 4 star is because they don't accept interac which is my go to.
-
 How Topic Modelling can help understand your business and city ?
 
 Topic modelling helps to pick specific topics from the huge volume of text. Topic Modelling on the Three popular restaurants and also on Phoenix City helps us to understand that complaints regarding restaurants and business is around Service
