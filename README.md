@@ -11,9 +11,6 @@ For a business we do the following analysis
     Calculate Sentiment for the reviews
     Negative Reviews
     Positive Reviews
-    Most Common Bigrams (a collection of Two words) in the review text
-    Relationship among words
-    Relationship of words with an important word in the review such as steak, crab, food
     Topic Modelling of the reviews
 
 The business that we are analysing are
