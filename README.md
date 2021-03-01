@@ -20,11 +20,11 @@ The business that we are analysing are
     Pai Northern Thai Kitchen , the most popular Toronto restaurant
     Chipotle Business in Yonge Street Toronto You guessed it right I like Chipotle :-)
 
-How Sentiment Analysis can help your business ?
+How Sentiment Analysis can help business ?
 
 For a business, the Sentiment Analysis is very important. If the business owners can just see the Top Ten negative reviews, they can easily find out which aspect of the business they need to improve.
 
-How Topic Modelling can help understand your business and city ?
+How Topic Modelling can help understand the business and the city ?
 
 Topic modelling helps to pick specific topics from the huge volume of text. Topic Modelling on the Three popular restaurants and also on Phoenix City helps us to understand that complaints regarding restaurants and business is around Service
 
